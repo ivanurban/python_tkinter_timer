@@ -34,6 +34,6 @@ def timer(time_to_sleep, title, text_message):
 
 while True:
     #Call function, pass the time and text that you want
-    timer(5, "Pause", "TIME TO MAKE PAUSE")
+    timer(2700, "Pause", "TIME TO MAKE PAUSE")
 
-    timer(2, "Work", "BACK TO WORK")
+    timer(900, "Work", "BACK TO WORK")
